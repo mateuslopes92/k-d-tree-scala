@@ -1,0 +1,37 @@
+# Scala CLI
+.scala-build/
+
+# BSP (Build Server Protocol)
+.bsp/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## VS Code
+.vscode/
+
+# Metals (Scala language server)
+.metals/
+.bloop/
+
+# Ammonite
+.ammonite/
+
+# Ivy / Coursier cache (optional, usually global)
+# Uncomment if you want to ignore local caches
+# .ivy2/
+# .cache/coursier/
